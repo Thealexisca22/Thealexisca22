@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy **Alexis**
 
-<!--
-**Thealexisca22/Thealexisca22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desarrollador Web Full Stack Junior y es estudiante de microinformatica  
+Apasionado por crear proyectos web **Inovadores y divertidos** . Experiencia en **HTML, CSS, JavaScript, Python** y aprendiendo nuevas tecnologías cada día.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+
+**Frontend:**  
+- HTML5  
+- CSS 
+- JavaScript
+- Boostrap  
+
+**Backend (en aprendizaje):**  
+- Node.js  
+- SQL
+- SQLAlchemy
+- Python
+
+**Otras herramientas:**  
+- Git & GitHub  
+- VS Code
+- React 
+
+---
+
+## 📌 Sobre mí
+Soy una persona **creativa, soñadora** y con muchas ganas de seguir creciendo como programador. Me encanta programar y dar mantenimiento fisico a los equipos
+
+---
+
+## 📈 Estadísticas de GitHub
+![Alexis GitHub stats](https://github-readme-stats.vercel.app/api?username=Thealexisca22&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Contacto  
+💼 **LinkedIn:** www.linkedin.com/in/alexis-herrandiz-prieto-94654b381
