@@ -13,7 +13,7 @@ Apasionado por crear proyectos web **Inovadores y divertidos** . Experiencia en 
 - JavaScript
 - Boostrap  
 
-**Backend (en aprendizaje):**  
+**Backend:**  
 - Node.js  
 - SQL
 - SQLAlchemy
