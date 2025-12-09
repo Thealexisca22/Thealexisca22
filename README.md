@@ -30,11 +30,5 @@ Apasionado por crear proyectos web **Inovadores y divertidos** . Experiencia en 
 Soy una persona **creativa, soñadora** y con muchas ganas de seguir creciendo como programador. Me encanta programar y dar mantenimiento fisico a los equipos
 
 ---
-
-## 📈 Estadísticas de GitHub
-![Alexis GitHub stats](https://github-readme-stats.vercel.app/api?username=Thealexisca22&show_icons=true&theme=radical)
-
----
-
 ## 🌐 Contacto  
-💼 **LinkedIn:** www.linkedin.com/in/alexis-herrandiz-prieto-94654b381
+💼 **LinkedIn:** www.linkedin.com/in/alexis-herrandiz-prieto
