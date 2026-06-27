@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Alexis**
 
-### 🚀 Desarrollador Web Full Stack Junior y estudiante de microinformatica  
+### 🚀 Desarrollador Web Full Stack Junior y Tecnico de microinformatica  
 Apasionado por crear proyectos web **Inovadores y divertidos** . Experiencia en **HTML, CSS, JavaScript, Python** y aprendiendo nuevas tecnologías cada día.
 
 ---
